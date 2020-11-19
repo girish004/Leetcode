@@ -5,7 +5,7 @@ public:
         int i=-1;
         while(++i<--j)
         {
-            swap(s[i],s[j]);
+            swap(s[i],s[j]);//swapping using algorithm header
         }
     }
 };
